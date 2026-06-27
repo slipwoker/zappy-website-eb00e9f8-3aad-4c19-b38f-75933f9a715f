@@ -1,0 +1,104 @@
+# Cast — Generative Engine Optimization Map
+
+> An online retail store selling a mix of fashion clothing and home goods/decor products. The store appears to offer a lifestyle-oriented shopping experience combining apparel and household items under one roof.
+
+---
+
+## Pages
+
+### בית
+https://cast-eb00e9f8.zappy5.app
+חנות אונליין ייחודית לאופנת בגדים ומוצרי נוי לבית שמגדירים מחדש את חוויית הקנייה. היכנסו עכשיו לעולם של טרנדים, נוחות ועיצוב מעורר השראה עם Cast.
+
+### תכונות
+https://cast-eb00e9f8.zappy5.app/features
+גלו תכונות מתקדמות כמו משלוח מהיר, החזרות קלות וממשק אינטואיטיבי שמאפשרים לכם להתמקד במה שחשוב – אופנה ועיצוב מעולים. התחילו לעצב את חייכם עם Cast.
+
+### אודות
+https://cast-eb00e9f8.zappy5.app/about
+הכירו את החזון של Cast – מותג שמחבר בין אופנה עדכנית לפריטי נוי לבית בהשראת סיפורים יוצאי דופן. הצטרפו למסע שמעצב תרבות צריכה חדשה ומרגשת.
+
+### צור קשר
+https://cast-eb00e9f8.zappy5.app/contact
+צריכים עזרה בבחירת הפריט המושלם? צוות המומחים של Cast זמין להעניק לכם שירות אישי, ייעוץ סטיילינג ופתרונות יצירתיים. צרו קשר עוד היום והתחילו ליהנות.
+
+### Products
+https://cast-eb00e9f8.zappy5.app/products
+המוצרים שלנו - Cast
+
+### Cart
+https://cast-eb00e9f8.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://cast-eb00e9f8.zappy5.app/checkout
+תשלום
+
+### Login
+https://cast-eb00e9f8.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://cast-eb00e9f8.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://cast-eb00e9f8.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://cast-eb00e9f8.zappy5.app/product/:slug
+פרטי המוצר - Cast
+
+### Category
+https://cast-eb00e9f8.zappy5.app/category/:slug
+מוצרים - Cast
+
+### תודה שפניתם אלינו
+https://cast-eb00e9f8.zappy5.app/thank-you
+Cast - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://cast-eb00e9f8.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://cast-eb00e9f8.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://cast-eb00e9f8.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Cast
+An online retail store selling a mix of fashion clothing and home goods/decor products. The store appears to offer a lifestyle-oriented shopping experience combining apparel and household items under one roof.
+
+## Target Audience
+- אנשי מקצוע צעירים עירוניים
+- צרכנים ידידותיים לסביבה
+- חובבי עיצוב הבית
+
+## Industry
+E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://cast-eb00e9f8.zappy5.app/sitemap.xml
+- Robots: https://cast-eb00e9f8.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://cast-eb00e9f8.zappy5.app/llms-full.txt
+- Products (JSON): https://cast-eb00e9f8.zappy5.app/products.json
+- Products (Google Merchant RSS): https://cast-eb00e9f8.zappy5.app/product-feed.xml
