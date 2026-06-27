@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://cast-eb00e9f8.zappy5.app
+https://example.com
 חנות אונליין ייחודית לאופנת בגדים ומוצרי נוי לבית שמגדירים מחדש את חוויית הקנייה. היכנסו עכשיו לעולם של טרנדים, נוחות ועיצוב מעורר השראה עם Cast.
 
 ### תכונות
-https://cast-eb00e9f8.zappy5.app/features
+https://example.com/features
 גלו תכונות מתקדמות כמו משלוח מהיר, החזרות קלות וממשק אינטואיטיבי שמאפשרים לכם להתמקד במה שחשוב – אופנה ועיצוב מעולים. התחילו לעצב את חייכם עם Cast.
 
 ### אודות
-https://cast-eb00e9f8.zappy5.app/about
+https://example.com/about
 הכירו את החזון של Cast – מותג שמחבר בין אופנה עדכנית לפריטי נוי לבית בהשראת סיפורים יוצאי דופן. הצטרפו למסע שמעצב תרבות צריכה חדשה ומרגשת.
 
 ### צור קשר
-https://cast-eb00e9f8.zappy5.app/contact
+https://example.com/contact
 צריכים עזרה בבחירת הפריט המושלם? צוות המומחים של Cast זמין להעניק לכם שירות אישי, ייעוץ סטיילינג ופתרונות יצירתיים. צרו קשר עוד היום והתחילו ליהנות.
 
 ### Products
-https://cast-eb00e9f8.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Cast
 
 ### Cart
-https://cast-eb00e9f8.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://cast-eb00e9f8.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://cast-eb00e9f8.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://cast-eb00e9f8.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://cast-eb00e9f8.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://cast-eb00e9f8.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Cast
 
 ### Category
-https://cast-eb00e9f8.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Cast
 
 ### תודה שפניתם אלינו
-https://cast-eb00e9f8.zappy5.app/thank-you
+https://example.com/thank-you
 Cast - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://cast-eb00e9f8.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://cast-eb00e9f8.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://cast-eb00e9f8.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -97,8 +97,8 @@ E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://cast-eb00e9f8.zappy5.app/sitemap.xml
-- Robots: https://cast-eb00e9f8.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://cast-eb00e9f8.zappy5.app/llms-full.txt
-- Products (JSON): https://cast-eb00e9f8.zappy5.app/products.json
-- Products (Google Merchant RSS): https://cast-eb00e9f8.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
